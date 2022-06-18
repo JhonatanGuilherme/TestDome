@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="TestDomeGif" src="./images/Repository title.gif" width="500"/>
+    <img alt="TestDomeGif" src="./images/Repository title.gif"/>
 </h1>
 
 <p align="center">
