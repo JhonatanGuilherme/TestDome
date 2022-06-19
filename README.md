@@ -24,8 +24,14 @@
 
 The following technologies were used:
 
-- **[Python](https://www.python.org/)**
-- **[VS Code](https://code.visualstudio.com/)**
+<p align="center">
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </a>
+</p>
 
 ## **📑 License**
 
